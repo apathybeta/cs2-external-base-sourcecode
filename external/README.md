@@ -1,11 +1,10 @@
-## FullyExternalCS2
+## external base sourcecode
 
 ### Description
 
 FullyExternalCS2 is an external cheat for Counter-Strike 2 **that does not write to the game memory**. \
 It was created for the _purpose_ of _improving_ Windows API skills.
 
-[Please note that.](https://github.com/sweeperxz/FullyExternalCS2/issues/6#issuecomment-1919053959)
 
 **❗❗❗IF YOU GOT VAC BAN THEN CREATE AN ISSUE WITH THE ASSOCIATED TEMPLATE❗❗❗**
 
@@ -44,8 +43,7 @@ It was created for the _purpose_ of _improving_ Windows API skills.
 - OBS Bypass
 - Hitsound (**_in the same folder with the cheat there should be a file called "hit.wav"_**)
 - Basic Config with hotkeys. (if you want to change the default keys watch link and replace keycode whatever u
-  want [Read this](https://github.com/lolp1/Process.NET/blob/ce9ac9cceb2afb30c9288495615c6f3aa34bc1f8/src/Process.NET/Native/Types/NativeEnums.cs#L235))
-
+  want [Read this]
 #### System
 
 - Auto update offsets
@@ -67,8 +65,8 @@ It was created for the _purpose_ of _improving_ Windows API skills.
 **Installation**
 
 ```bash
-git clone https://github.com/sweeperxz/FullyExternalCS2.git
-cd FullyExternalCS2
+git clone https://github.com/apathybeta/external.git
+cd external
 ```
 
 ### Starting the program
@@ -82,11 +80,6 @@ dotnet run
 
 If you have issues or have questions, check out the Issues section of the GitHub project page.
 
-### Authors
 
-- sweeperxz - Developer/Engineer
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sweeperxz/FullyExternalCS2&type=Date)](https://star-history.com/#sweeperxz/FullyExternalCS2&Date)
 
