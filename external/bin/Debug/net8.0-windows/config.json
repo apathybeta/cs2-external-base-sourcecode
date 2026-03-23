@@ -1,0 +1,16 @@
+{
+  "AimBot": true,
+  "BombTimer": true,
+  "EspAimCrosshair": false,
+  "EspBox": true,
+  "SkeletonEsp": true,
+  "BoxColorIndex": 4,
+  "SkeletonColorIndex": 0,
+  "TriggerBot": true,
+  "TriggerTrainer": false,
+  "AimBotKey": 1,
+  "TriggerBotKey": 164,
+  "TeamCheck": true,
+  "MenuOpacity": 0,
+  "BoxThickness": 0
+}
